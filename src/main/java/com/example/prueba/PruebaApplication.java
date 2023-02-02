@@ -13,7 +13,7 @@ public class PruebaApplication {
 		frame.setVisible(true);
 
 		System.out.println("Hola mundo");
-
+		System.out.println("adios mundo");
 
 	}
 
